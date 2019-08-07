@@ -1,0 +1,6 @@
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.google.android.gms:play-services-base:11.6.2" />
+        <androidPackage spec="com.google.firebase:firebase-messaging:11.6.2" />
+    </androidPackages>
+</dependencies>
